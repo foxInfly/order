@@ -4,7 +4,7 @@ spring:
     nacos:
       discovery:
         #ָ指定nacos server地址
-        server-addr: 39.100.39.63:8848
+        server-addr: 121.37.227.17:8848
   application:
     name: order
 
